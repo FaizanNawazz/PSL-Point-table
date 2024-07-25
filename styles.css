@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(0, 0, 0, 0.925);
+    padding: 0;
+    margin: 0;
+}
+div.div1 {
+    background-color: rgba(0, 128, 0, 0.767);
+    /* width: 520px; */
+    padding: 10px;
+}
+div a{
+    color: white;
+    text-decoration: none;
+    font-size: x-large;
+}
+div.div2{
+    background-color: rgba(0, 128, 0, 0.753);
+    /* width: 480px; */
+    padding: 30px;
+}
+nav a{
+    padding: 120px;
+    font-size: small; 
+}
+div.div3{
+    background-color: rgba(128, 128, 128, 0.473);
+    width: 516px;
+    margin: 0px 0px 0px 510px;
+    display: flex;
+    justify-content: left;
+}
+table,tr,th,td{
+    align-items: center;
+    /* border: 2px solid black; */
+    border-collapse: collapse;
+    padding: 21px;
+    background-color: rgba(31, 30, 30, 0.856);
+    color: white;
+}
+div.div4{
+    display: flex;
+    justify-content: center;   
+}
+
